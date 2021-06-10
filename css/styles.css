@@ -7,10 +7,6 @@ body {
 
 }
 
-mobile-text {
-  text-align: center;
-}
-
 h1 {
   width: 10%;
   font-family: 'Sacramento', cursive;
@@ -74,9 +70,6 @@ a:hover{
 
 }
 
-.descriptor {
-  width: 80%;
-}
 
 .profile {
   margin: 0 auto;
@@ -131,10 +124,6 @@ a:hover{
 
 .contact-me {
   margin: 100px auto 150px auto;
-  width: 80%;
-}
-
-#contact-me-descriptor {
   width: 80%;
 }
 
