@@ -56,8 +56,8 @@ a:hover{
 
 .top-cloud {
   position:absolute;
-  top: 20%;
-  right: 20%;
+  top: 300px;
+  right: 200px;
 }
 
 .mountain {
@@ -66,8 +66,8 @@ a:hover{
 
 .bottom-cloud {
   position: absolute;
-  bottom: 20%;
-  left: 20%;
+  bottom: 300px;
+  left: 200px;
 
 }
 
