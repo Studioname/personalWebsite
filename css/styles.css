@@ -74,6 +74,10 @@ a:hover{
 
 }
 
+.descriptor {
+  width: 80%;
+}
+
 .profile {
   margin: 0 auto;
   width: 60%
@@ -127,7 +131,7 @@ a:hover{
 
 .contact-me {
   margin: 100px auto 150px auto;
-  width: 60%;
+  width: 80%;
 }
 
 .footer-link {
