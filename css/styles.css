@@ -5,7 +5,10 @@ body {
   font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
   font-family: 'Merriweather', serif;
 
+}
 
+mobile-text {
+  text-align: center;
 }
 
 h1 {
