@@ -32,6 +32,10 @@ a {
   text-decoration: none;
 }
 
+a:hover{
+  color: #EAF6F6;
+}
+
 .top-container {
 
   position: relative;
